@@ -1,6 +1,6 @@
 # Python Code Generation by Asking Clarification Questions
 
-This repo include codes that we used for the experiments in our ACL 2023 paper:
+This repo include codes that we used for the experiments in our ACL 2023 paper (main):
 
 
 ```
